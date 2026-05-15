@@ -1,8 +1,11 @@
 # Habit Tracker App AI Claude Code
-### 1- Install [Claude Code](https://code.claude.com/docs/en/quickstart)
-### 1- Install [expo/skills](https://github.com/expo/skills)
-### 2- 
-### 3-
+
+## Install
+### 1- [Rect Native Expo](https://docs.expo.dev/more/create-expo/)
+### 2- [Expo/skills](https://github.com/expo/skills)
+### 3- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide)
+
+
 
 ## Install Claude Code AI
 
