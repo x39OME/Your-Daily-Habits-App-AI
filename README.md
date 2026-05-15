@@ -1,13 +1,20 @@
 # Habit Tracker App AI Claude Code
 
 ## What did we use in the project?
+1- [AI Claude Code](https://claude.ai/new)
 
-### 1- [AI Claude Code](https://reactnative.dev/)
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/en) (LTS recommended)
+- [Expo CLI](https://docs.expo.dev/get-started/set-up-your-environment/)
+- iOS Simulator (macOS) or Android Emulator, or a physical device with [Expo Go](https://expo.dev/go)
 
 
 ## Getting Started Expo Applaction
 
-- npx create-react-app habit-tracker
+- Open Cmd -> cd desktop
+- npx create-expo-app habit-tracker
 - 
 
 
