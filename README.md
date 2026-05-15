@@ -31,6 +31,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 - `` Open Cmd -> cd desktop ``
 - npx create-expo-app habit-tracker
 - claude
+- npx expo start
 
 
 ## Claude Code
