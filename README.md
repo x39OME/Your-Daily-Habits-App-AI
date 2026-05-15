@@ -1,5 +1,5 @@
 # Habit Tracker App AI Claude Code
-### 1-
+### 1- [expo/skills](https://github.com/expo/skills/tree/main)
 ### 2- 
 ### 3-
 
@@ -18,6 +18,21 @@
         You can now close this window.
 `
 
+
+## Claude Code
+
+Add the marketplace:
+
+```
+/plugin marketplace add expo/skills
+```
+
+Install the plugin:
+
+```
+/plugin install expo
+```
+ 
 
 ## Getting Started Expo Applaction
 
