@@ -36,13 +36,13 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 ## Claude Code
 
-Add the marketplace:
+- Add the marketplace:
 
 ```
 /plugin marketplace add expo/skills
 ```
 
-Install the plugin:
+- Install the plugin:
 
 ```
 /plugin install expo
@@ -55,7 +55,7 @@ Install the plugin:
 - iOS Simulator (macOS) or Android Emulator, or a physical device with [Expo Go](https://expo.dev/go)
 
 
-### 
+### Prompt
 ```
         Build a habit tracker app using expo. We're going to have two tabs:
         
