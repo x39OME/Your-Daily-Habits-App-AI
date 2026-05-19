@@ -15,32 +15,41 @@
 npm install -g @anthropic-ai/claude-code
 ```
 - If it doesn't work open Power Shell اذا مانفع شغل البور شل كمسؤول واكتب الام واضغط نعم yes
-
-` Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine `
-
+```
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+```
 - Now you can run the project
-` claude `
+```
+claude
+```
 - /models Chosse Opus 4.7
 - /btw
 
 ## Getting Started Expo Applaction
 
 - Open Cmd -> cd desktop
-` npx create-expo-app habit-tracker `
-` claude `
-` npx expo start`
+```
+npx create-expo-app habit-tracker
+```
+```
+claude
+```
+```
+npx expo start 
+```
 
 
 ## Claude Code
 
 - Add the marketplace:
-
-` /plugin marketplace add expo/skills `
-
+```
+/plugin marketplace add expo/skills
+```
 - Install the plugin:
+```
+/plugin install expo
+ ```
 
-` /plugin install expo `
- 
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/en) (LTS recommended)
