@@ -40,11 +40,13 @@ npx expo start
 
 
 ## Claude Code
+### Expo Skills/Plugins
 
 - Add the marketplace:
 ```
 /plugin marketplace add expo/skills
 ```
+
 - Install the plugin:
 ```
 /plugin install expo
@@ -89,8 +91,6 @@ npx expo start
 - Download
 - ` npm install `
 - ` npx expo start `
-
-
 
 
 # Welcome to your Expo app 👋
