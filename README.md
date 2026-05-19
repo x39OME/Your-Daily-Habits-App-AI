@@ -6,7 +6,6 @@
 ### 3- [Expo/skills](https://github.com/expo/skills)
 
 
-
 ## Install Claude Code
 
 - CMD
