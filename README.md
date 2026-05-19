@@ -7,46 +7,39 @@
 
 
 
-## Install Claude Code AI
+## Install Claude Code
 
-- open CMD
-- Cloud Code must be installed manually first. يجيب تثبيت كلود كود بالجهاز
-```
-npm install -g @anthropic-ai/claude-code
-```
+- CMD
+- Cloud Code must be installed manually first.
+
+` npm install -g @anthropic-ai/claude-code`
+
 - If it doesn't work open Power Shell اذا مانفع شغل البور شل كمسؤول واكتب الام واضغط نعم yes
-```
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
-```
-- know u can run claude
+
+` Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine `
+
+- Now you can run the project
+` claude `
 - /models Chosse Opus 4.7
-`
-        Build something great
-        You’re all set up for Claude Code.
-        You can now close this window.
-`
+- /btw
 
 ## Getting Started Expo Applaction
 
-- `` Open Cmd -> cd desktop ``
-- npx create-expo-app habit-tracker
-- claude
-- npx expo start
+- Open Cmd -> cd desktop
+` npx create-expo-app habit-tracker `
+` claude `
+` npx expo start`
 
 
 ## Claude Code
 
 - Add the marketplace:
 
-```
-/plugin marketplace add expo/skills
-```
+` /plugin marketplace add expo/skills `
 
 - Install the plugin:
 
-```
-/plugin install expo
-```
+` /plugin install expo `
  
 ## Prerequisites
 
@@ -54,8 +47,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 - [Expo CLI](https://docs.expo.dev/get-started/set-up-your-environment/)
 - iOS Simulator (macOS) or Android Emulator, or a physical device with [Expo Go](https://expo.dev/go)
 
-
-### Prompt
+## Prompt
 ```
         Build a habit tracker app using expo. We're going to have two tabs:
         
@@ -83,9 +75,6 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 
 #### Start Screen
-
-
-
 
 
 
