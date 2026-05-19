@@ -1,4 +1,4 @@
-# Habit Tracker App AI Claude Code
+# Your Daily Habits App AI Claude Code
 
 ## Install
 ### 1- [Rect Native Expo](https://docs.expo.dev/more/create-expo/)
