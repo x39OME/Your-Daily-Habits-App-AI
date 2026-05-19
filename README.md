@@ -1,6 +1,6 @@
 # Your Daily Habits App AI Claude Code
 
-## Install
+## What did we use in the project?
 ### 1- [Rect Native Expo](https://docs.expo.dev/more/create-expo/)
 ### 2- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide)
 ### 3- [Expo/skills](https://github.com/expo/skills)
@@ -84,6 +84,11 @@ npx expo start
 
 
 #### Start Screen
+
+## Run The Project
+- Download
+- ` npm install `
+- ` npx expo start `
 
 
 
