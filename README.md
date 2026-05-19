@@ -11,9 +11,9 @@
 
 - CMD
 - Cloud Code must be installed manually first.
-
-- ` npm install -g @anthropic-ai/claude-code`
-
+```
+npm install -g @anthropic-ai/claude-code
+```
 - If it doesn't work open Power Shell اذا مانفع شغل البور شل كمسؤول واكتب الام واضغط نعم yes
 
 ` Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine `
