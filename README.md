@@ -7,7 +7,11 @@
 
 ## Preview Final Project
 
-- Home
+- Get Started
+- Today
+- Streaks
+- New Habits
+- Sittings
 
 <img src="./preview/your-daily-habits-app-ai.jpg" alt="app" />
 
