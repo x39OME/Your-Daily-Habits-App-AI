@@ -87,15 +87,6 @@ npx expo start
         * expo haptics for feedback on iOS
 ```
 
-## Preview Final Project
-
-##### Page 1
-<img src="" style="width:300px;" alt=" Page" />
-
-
-
-#### Start Screen
-
 ## Run The Project
 - Download
 - ` npm install `
