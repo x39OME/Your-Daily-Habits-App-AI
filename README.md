@@ -5,6 +5,12 @@
 ### 2- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide)
 ### 3- [Expo/skills](https://github.com/expo/skills)
 
+## Preview Final Project
+
+- Home
+
+<img src="./preview/your-daily-habits-app-ai.jpg" alt="app" />
+
 
 ## Install Claude Code
 
