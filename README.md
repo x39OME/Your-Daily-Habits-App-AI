@@ -5,6 +5,8 @@
 ### 2- [Claude App Desktop](https://claude.com/product/claude-code)
 ### 3- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide) Opus 4.7
 ### 4- [Expo/skills](https://github.com/expo/skills)
+### 5- [Expo SDK 54](https://docs.expo.dev/get-started/create-a-project/)
+
 
 ## Preview Final Project
 
