@@ -37,17 +37,31 @@ claude
 
 ## Getting Started Expo Applaction
 
-- Open Cmd -> cd desktop
+### Create New Expo App
 ```
 npx create-expo-app habit-tracker
 ```
+### install claude code
 ```
-claude
+npm install -g @anthropic-ai/claude-code
 ```
+### install claude code App Desktop
+  - Windows
+  - Administrator power shell
 ```
-npx expo start 
+irm https://claude.ai/install.ps1 | iex
+```
+  - Mac / Linux
+```
+curl -fsSL https://claude.ai/install.sh | bash
 ```
 
+### Commands
+- npx create-expo-app@latest --template default@sdk-56
+- npm install -g @anthropic-ai/claude-code
+- npx expo start
+- claude
+- /model Opus 4.7
 
 ## Claude Code
 ### Expo Skills/Plugins
