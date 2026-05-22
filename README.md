@@ -32,7 +32,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 ```
 claude
 ```
-- /models Chosse Opus 4.7
+- claude /model Opus 4.7
 - /btw
 
 ## Getting Started Expo Applaction
