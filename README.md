@@ -3,7 +3,7 @@
 ## What did we use in the project?
 ### 1- [Rect Native Expo](https://docs.expo.dev/more/create-expo/)
 ### 2- [Claude App Desktop](https://claude.com/product/claude-code)
-### 3- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide)
+### 3- [Claude Code](https://code.claude.com/docs/en/agent-sdk/migration-guide) Opus 4.7
 ### 4- [Expo/skills](https://github.com/expo/skills)
 
 ## Preview Final Project
