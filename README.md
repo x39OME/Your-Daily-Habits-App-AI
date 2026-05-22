@@ -17,7 +17,7 @@
 <img src="./preview/your-daily-habits-app-ai.jpg" alt="app" />
 
 
-## Install Claude Code
+## Install Claude Code Opus 4.7
 
 - CMD
 - Cloud Code must be installed manually first.
